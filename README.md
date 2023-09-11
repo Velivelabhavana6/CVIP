@@ -16,7 +16,6 @@ Golden Task :-
 Link Shortner.
 
 CVIP Project Rules :-
-CVIP Rules :-
 * Maintain a separate Github Repositoy (CVIP #Domain Name).
 * Upload all project source code to that Repository.
 * Upload the Task Videos to Linkedin and Tag @CodersCave.
