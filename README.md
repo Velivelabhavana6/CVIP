@@ -4,7 +4,7 @@ CVIP Task / Project List & Rules : -
 Phase 1 Project List : -
 Domain : Web Development Intern
 Normal Task :-
-Landing Page for EdTech.
+Netflix Clone Page
 Golden Task :-
 Online Code Editor.
 
