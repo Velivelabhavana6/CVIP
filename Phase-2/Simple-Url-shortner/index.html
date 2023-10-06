@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>URL SHORTENER</title>
+    <link rel="stylesheet" href="Styles.css">
+  </head>
+  <body>
+    <div class="maincontainer">
+    <h1>URL SHORTENER</h1>
+    <form>
+      <label for="long-url">Enter or Paste Your long URL:</label>
+      <input type="text" id="long-url" name="long-url">
+      <button type="button" id="shorten-btn">SHORTEN</button>
+    </form>
+    <div id="short-url-container" style="display:none">
+      <p>Here's your shortened URL:</p>
+      <div id="short-url">
+        <a href="" target="_blank"></a>
+        <button type="button" id="copy-btn">COPY</button>
+      </div>
+    </div>
+    <div class="credit">Made By <span style="color:tomato;font-size:20px;">🖤</span>by <a href="#">VELIVELA BHAVANA</a></div>
+</div>
+    <script src="index.js"></script>
+  </body>
+</html>
